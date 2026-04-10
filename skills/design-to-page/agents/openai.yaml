@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design To Page | 设计稿落地"
+  short_description: "Repo-aware design implementation planning / 结合仓库结构的设计稿实现规划"
+  default_prompt: "Use $design-to-page to inspect a design link in the controlled browser, map it to my repo, and produce an implementation plan before any code changes. / 使用 $design-to-page 在受控浏览器中读取设计稿，映射到仓库，并在改代码前先输出实现方案。"
