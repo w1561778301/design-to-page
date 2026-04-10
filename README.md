@@ -54,6 +54,21 @@ Example with Codex skill installer:
 Use $skill-installer to install this skill from <owner>/<repo> path skills/design-to-page.
 ```
 
+For this repository specifically:
+
+```text
+Use $skill-installer to install from w1561778301/design-to-page path skills/design-to-page.
+```
+
+Or use the direct GitHub URL:
+
+```text
+Use $skill-installer to install from https://github.com/w1561778301/design-to-page/tree/main/skills/design-to-page.
+```
+
+Manual install also works by copying `skills/design-to-page` into `~/.codex/skills/design-to-page`.  
+也可以手动安装：把 `skills/design-to-page` 整个目录复制到 `~/.codex/skills/design-to-page`。
+
 After installation, restart Codex so the skill is discovered.  
 安装后重启 Codex，让 skill 被重新发现。
 
